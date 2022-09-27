@@ -34,7 +34,7 @@
     .list_place-des {
         text-align: center;
         width: 100%;
-        margin: 0 0 20px 20px;
+        margin: 0 0 20px 17px;
         
     }
     .list_place-header {
@@ -105,7 +105,7 @@
     .list_place-id {
         position: absolute;
         content: "";
-        left: 166px;
+        left: 162px;
         top: -20px
     }
 
