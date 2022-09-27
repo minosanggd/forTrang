@@ -95,7 +95,7 @@
     .list_place-des {
         text-align: center;
         width: 100%;
-        margin-left: 80px;
+        margin-left: 60px;
         
     }
     .list_place-header {
@@ -105,7 +105,7 @@
     .list_place-id {
         position: absolute;
         content: "";
-        left: 190px;
+        left: 165px;
         top: -20px
     }
 
@@ -130,7 +130,8 @@
         margin-bottom: 10px;
     }
     .place_body { 
-        margin-left: 80px;
+        margin-left: 60px;
     }
 }
+
 
